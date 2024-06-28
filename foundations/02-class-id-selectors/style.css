@@ -1,0 +1,38 @@
+/* Apply yellow background to all odd numbered elements */
+.odd {
+    background-color: pink;
+  font-family:Verdana, DejaVu Sans, sans-serif;
+  font-size:24px;
+}
+
+
+#second {
+    color: blue;
+    font-size: 36px;
+  font-weight:bold;
+}
+
+/* Style the third element */
+p .odd {
+    font-size: 24px;
+}
+
+/* Style the fourth element */
+#fourth {
+    background-color:light green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+  font-weighy:bold;
+}
+
+
+#fourth {
+    background-color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
