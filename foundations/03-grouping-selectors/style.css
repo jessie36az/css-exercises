@@ -1,10 +1,10 @@
 .first{background-color:black;
 color:white;
 font-weight:bold;}
-button#second.first{
+button.second,.first{
   font-size:28px;
   font-family:Helvetica,Times New Roman,sans-serif;
 }
-#second{
+.second{
   background-color:yellow;
 }
