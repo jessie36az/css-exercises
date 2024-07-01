@@ -21,12 +21,14 @@ body {
   background: green;
   color: white;
   font-weight: bold;
+    font-size: 20px;
 } 
 
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+.cancel {
+
+  color: black;
   font-size: 20px;
+    background-color:white;
 }
 
 .child {
@@ -38,5 +40,5 @@ body {
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
-  font-weight: 100;
+ 
 }
